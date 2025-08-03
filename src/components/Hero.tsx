@@ -31,7 +31,7 @@ const Hero = () => {
 
           {/* Main Heading */}
           <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-6 animate-fade-in-up">
-            Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-500 to-blue-600 animate-gradient-x">Dip Charhate</span>
+            Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-500 to-blue-600 animate-gradient-x">Dip - Charhate</span>
           </h1>
 
           {/* Subtitle */}
